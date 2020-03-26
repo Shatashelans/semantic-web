@@ -73,8 +73,8 @@ def prettify_xml():
 
 
 if __name__ == '__main__':
-    # parser('https://www.amazon.com/b?node=18637575011&pf_rd_p=40ed81c0-6271-4813-bb5a-c65127ad0c47&pf_rd_r=D1SM2DP8QFFYXXRGS5S5')
-    with open('data/amazon1.html', 'r') as file:
+    parser('https://www.amazon.com/b?node=18637575011&pf_rd_p=40ed81c0-6271-4813-bb5a-c65127ad0c47&pf_rd_r=D1SM2DP8QFFYXXRGS5S5')
+    with open('data/amazon.html', 'r') as file:
         data = file.read()
     scrapped_data = page_scrapping(data)
     text_of_items = list(map(lambda item: item.text, scrapped_data))
