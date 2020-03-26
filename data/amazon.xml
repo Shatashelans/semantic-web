@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<items_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/SMLSpy_projects/amazon_checker.xsd">
+	<phone id="result_0">
+		<model_name>Apple iPhone 8, 64GB, Space Gray - Fully Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">225.00</price>
+		<rating max_value="5">4.1</rating>
+		<amount_of_customers>3,671</amount_of_customers>
+	</phone>
+	<phone id="result_1">
+		<model_name>Samsung SM-G900V - Galaxy S5 - 16GB Android Smartphone Verizon  - Black</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">104.00</price>
+		<rating max_value="5">3.5</rating>
+		<amount_of_customers>2,619</amount_of_customers>
+	</phone>
+	<phone id="result_2">
+		<model_name>Apple iPhone 7, 32GB, Rose Gold - Fully Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">129.00</price>
+		<rating max_value="5">3.8</rating>
+		<amount_of_customers>7,900</amount_of_customers>
+	</phone>
+	<phone id="result_3">
+		<model_name>Apple iPhone XR, 64GB, Red - Fully Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">437.99</price>
+		<rating max_value="5">4.5</rating>
+		<amount_of_customers>3,548</amount_of_customers>
+	</phone>
+	<phone id="result_4">
+		<model_name>Samsung Galaxy S9 Unlocked Smartphone - Lilac Purple -</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">252.99</price>
+		<rating max_value="5">4.2</rating>
+		<amount_of_customers>641</amount_of_customers>
+	</phone>
+	<phone id="result_5">
+		<model_name>Samsung Galaxy Note9 GSM Unlocked Phone with 6.4in Screen and 128GB - Ocean Blue</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">348.99</price>
+		<rating max_value="5">4.3</rating>
+		<amount_of_customers>2,401</amount_of_customers>
+	</phone>
+	<phone id="result_6">
+		<model_name>Samsung Galaxy S9 G960U 64GB Unlocked GSM 4G LTE Phone w/ 12MP Camera - Midnight Black</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">277.00</price>
+		<rating max_value="5">4.1</rating>
+		<amount_of_customers>3,285</amount_of_customers>
+	</phone>
+	<phone id="result_7">
+		<model_name>Google Pixel 2 64 GB, Black Factory Unlocked</model_name>
+		<company_name>Google</company_name>
+		<price currency="dollar">102.96</price>
+		<rating max_value="5">3.9</rating>
+		<amount_of_customers>669</amount_of_customers>
+	</phone>
+	<phone id="result_8">
+		<model_name>Samsung Galaxy S4 I337 16GB Unlocked GSM 4G LTE Quad-Core Smartphone w/ 13MP Camera - Black</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">89.99</price>
+		<rating max_value="5">3.2</rating>
+		<amount_of_customers>121</amount_of_customers>
+	</phone>
+	<phone id="result_9">
+		<model_name>Samsung Galaxy S10 Factory Unlocked Phone with 128GB, Prism Black</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">404.99</price>
+		<rating max_value="5">4.1</rating>
+		<amount_of_customers>162</amount_of_customers>
+	</phone>
+	<phone id="result_10">
+		<model_name>Apple iPhone 6S, 16GB, Space Gray - Fully Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">98.39</price>
+		<rating max_value="5">3.9</rating>
+		<amount_of_customers>506</amount_of_customers>
+	</phone>
+	<phone id="result_11">
+		<model_name>Apple iPhone 7 Matte Black 32GB Verizon Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">146.74</price>
+		<rating max_value="5">3.9</rating>
+		<amount_of_customers>148</amount_of_customers>
+	</phone>
+	<phone id="result_12">
+		<model_name>Apple Iphone X, 256GB, Space Gray - Fully Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">460.86</price>
+		<rating max_value="5">4.1</rating>
+		<amount_of_customers>2,114</amount_of_customers>
+	</phone>
+	<phone id="result_13">
+		<model_name>Apple iPhone 8 a1905 64GB LTE GSM Unlocked</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">233.99</price>
+		<rating max_value="5">4.2</rating>
+		<amount_of_customers>156</amount_of_customers>
+	</phone>
+	<phone id="result_14">
+		<model_name>Apple iPhone 6S, 64GB, Rose Gold - For AT&amp;T / T-Mobile</model_name>
+		<company_name>Apple</company_name>
+		<price currency="dollar">124.99</price>
+		<rating max_value="5">3.8</rating>
+		<amount_of_customers>2,155</amount_of_customers>
+	</phone>
+	<phone id="result_15">
+		<model_name>Samsung Galaxy S3-16GB Smartphone - Verizon - White</model_name>
+		<company_name>Samsung</company_name>
+		<price currency="dollar">69.99</price>
+		<rating max_value="5">3.6</rating>
+		<amount_of_customers>39</amount_of_customers>
+	</phone>
+</items_list>
